@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Placemaking.kml</name>
+	<Style id="placemaking">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://github.com/BK01/art-map/raw/gh-pages/img/placemaking.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#placemaking</styleUrl>
+			<Point>
+				<coordinates>-123.3645673421226,48.42456451850906,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#placemaking</styleUrl>
+			<Point>
+				<coordinates>-123.3700358956974,48.42865627812815,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#placemaking</styleUrl>
+			<Point>
+				<coordinates>-123.3729062748872,48.42794209353128,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#placemaking</styleUrl>
+			<Point>
+				<coordinates>-123.3711210765147,48.42822328744635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#placemaking</styleUrl>
+			<Point>
+				<coordinates>-123.3455104159249,48.43048047532115,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#placemaking</styleUrl>
+			<Point>
+				<coordinates>-123.369673433558,48.42875015914343,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#placemaking</styleUrl>
+			<Point>
+				<coordinates>-123.3656596014856,48.42192399174807,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#placemaking</styleUrl>
+			<Point>
+				<coordinates>-123.3701380759515,48.42297931564719,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#placemaking</styleUrl>
+			<Point>
+				<coordinates>-123.370300440876,48.42335633033924,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

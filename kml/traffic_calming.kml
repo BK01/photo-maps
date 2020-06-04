@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>traffic_calming</name>
+	<Style id="traffic_calming">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://github.com/BK01/art-map/raw/gh-pages/img/thumbs-up.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#traffic_calming</styleUrl>
+			<Point>
+				<coordinates>-123.3335909067076,48.43604117744938,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#traffic_calming</styleUrl>
+			<Point>
+				<coordinates>-123.3283368281905,48.44623639892707,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#traffic_calming</styleUrl>
+			<Point>
+				<coordinates>-123.3509787952726,48.44126208204316,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#traffic_calming</styleUrl>
+			<Point>
+				<coordinates>-123.3454064725434,48.41678018017939,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#traffic_calming</styleUrl>
+			<Point>
+				<coordinates>-123.3557401750271,48.43068249306818,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#traffic_calming</styleUrl>
+			<Point>
+				<coordinates>-123.3594386355602,48.41670296947079,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#traffic_calming</styleUrl>
+			<Point>
+				<coordinates>-123.3494641018101,48.43354868193939,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#traffic_calming</styleUrl>
+			<Point>
+				<coordinates>-123.3628239228948,48.41978795826309,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#traffic_calming</styleUrl>
+			<Point>
+				<coordinates>-123.3494735559656,48.43264659704219,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#traffic_calming</styleUrl>
+			<Point>
+				<coordinates>-123.3287070000779,48.43592202799837,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#traffic_calming</styleUrl>
+			<Point>
+				<coordinates>-123.3682923583414,48.43022367690273,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#traffic_calming</styleUrl>
+			<Point>
+				<coordinates>-123.3335506338198,48.43800799701917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#traffic_calming</styleUrl>
+			<Point>
+				<coordinates>-123.3331510039556,48.43248023334655,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#traffic_calming</styleUrl>
+			<Point>
+				<coordinates>-123.3329160598513,48.43051216812593,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#traffic_calming</styleUrl>
+			<Point>
+				<coordinates>-123.3294575009089,48.43230684720776,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#traffic_calming</styleUrl>
+			<Point>
+				<coordinates>-123.3532015003675,48.43819661001232,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#traffic_calming</styleUrl>
+			<Point>
+				<coordinates>-123.3571845479258,48.43768868956699,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Other.kml</name>
+	<Style id="pin">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://github.com/BK01/art-map/raw/gh-pages/img/pin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#pin</styleUrl>
+			<Point>
+				<coordinates>-123.3816954602863,48.41839568654834,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#pin</styleUrl>
+			<Point>
+				<coordinates>-123.3459960489541,48.43498127613572,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#pin</styleUrl>
+			<Point>
+				<coordinates>-123.3547265045822,48.42844166666474,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#pin</styleUrl>
+			<Point>
+				<coordinates>-123.3652376093696,48.42511972965346,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#pin</styleUrl>
+			<Point>
+				<coordinates>-123.3025509321834,48.43574450839606,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<description>Coming soon</description>
+			<styleUrl>#pin</styleUrl>
+			<Point>
+				<coordinates>-123.3668097881755,48.41237433914351,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>public_transportation</name>
+	<Style id="public_transportation">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://github.com/BK01/art-map/raw/gh-pages/img/bus.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+		<Placemark>
+			<name>Bus lane</name>
+			<description>Coming soon</description>
+			<styleUrl>#public_transportation</styleUrl>
+			<Point>
+				<coordinates>-123.3644851362559,48.43249981438061,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bus lane</name>
+			<description>Coming soon</description>
+			<styleUrl>#public_transportation</styleUrl>
+			<Point>
+				<coordinates>-123.3646007537498,48.4304258597695,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bus lane</name>
+			<description>Coming soon</description>
+			<styleUrl>#public_transportation</styleUrl>
+			<Point>
+				<coordinates>-123.368966517533,48.44192021539472,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bus lane</name>
+			<description>Coming soon</description>
+			<styleUrl>#public_transportation</styleUrl>
+			<Point>
+				<coordinates>-123.3800714262597,48.45582711883998,0</coordinates>
+			</Point>
+		</Placemark>
+</Document>
+</kml>
