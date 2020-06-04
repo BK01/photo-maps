@@ -46,14 +46,14 @@
 					"opacity": 1}
 				}).addTo(map);
 				
-			var Neighbourhood_Boundaries = omnivore.kml('https://raw.githubusercontent.com/BK01/community-maps/gh-pages/kml/Neighbourhood_Boundaries.kml', null, customLayer)
+			var Neighbourhood_Boundaries = omnivore.kml('https://raw.githubusercontent.com/BK01/photo-maps/gh-pages/kml/neighbourhood_boundaries.kml', null, customLayer)
 				.on('ready', function() {
 					Neighbourhood_Boundaries.eachLayer(function(layer) {
 						layer.bindPopup(layer.feature.properties.Neighbourhood);
 					});
 				}).addTo(map);
 			
-			var Painted_Poles = omnivore.kml('https://raw.githubusercontent.com/BK01/community-maps/gh-pages/kml/Fernwood_pole_painting.kml')
+			var Painted_Poles = omnivore.kml('https://raw.githubusercontent.com/BK01/photo-maps/gh-pages/kml/pole_painting.kml')
 				.on('ready', function() {
 					map.fitBounds(Painted_Poles.getBounds());
 					Painted_Poles.eachLayer(function(layer) {
