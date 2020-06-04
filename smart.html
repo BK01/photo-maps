@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<title>Smart-Communities</title>
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
+	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-omnivore/0.3.4/leaflet-omnivore.js"></script>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/leaflet.locatecontrol/0.60.0/L.Control.Locate.min.css" type="text/css" />
+	<script src="https://cdn.jsdelivr.net/leaflet.locatecontrol/0.60.0/L.Control.Locate.min.js"></script>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	</script>
+
+	<style>
+		html,
+		body,
+		#map {
+			height: 100%;
+		}
+	</style>
+
+	<script type="text/javascript">
+
+		function init() {
+
+			var map = L.map('map').setView([48.447201,-123.355112],13);	
+			// OSM Mapnik
+			var osmLink = "<a href='https://www.openstreetmap.org'>Open StreetMap</a>";
+
+			var osm = L.tileLayer(
+				'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+					attribution: '&copy; ' + osmLink,
+					maxZoom: 18
+				}),
+				CyclOSM = L.tileLayer(
+				'https://dev.{s}.tile.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png', {
+					maxZoom: 18,
+					attribution: '<a href="https://github.com/cyclosm/cyclosm-cartocss-style/releases" title="CyclOSM - Open Bicycle render">CyclOSM</a> | Map data: &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+				}).addTo(map);
+			
+			placemakingLayer = L.geoJson(null, {
+					style: {
+					"fillColor": "white",
+					"color": "red",
+					"weight": 2,
+					"opacity": 1}
+				}).addTo(map);	
+
+			activeTransportationLayer = L.geoJson(null, {
+					style: {
+					"fillColor": "white",
+					"color": "red",
+					"weight": 2,
+					"opacity": 1}
+				}).addTo(map);	
+				
+			publicTransportationLayer = L.geoJson(null, {
+					style: {
+					"fillColor": "white",
+					"color": "red",
+					"weight": 2,
+					"opacity": 1}
+				}).addTo(map);	
+
+			trafficCalmingLayer = L.geoJson(null, {
+					style: {
+					"fillColor": "white",
+					"color": "red",
+					"weight": 2,
+					"opacity": 1}
+				}).addTo(map);
+				
+			neighbourhoodLayer = L.geoJson(null, {
+					style: {
+					"fillColor": "white",
+					"color": "red",
+					"weight": 2,
+					"opacity": 1}
+				}).addTo(map);	
+
+			var Placemaking = omnivore.kml('https://raw.githubusercontent.com/BK01/community-maps/gh-pages/kml/Placemaking.kml', null, placemakingLayer)
+				.on('ready', function() {
+					Placemaking.eachLayer(function(layer) {
+						layer.bindPopup(layer.feature.properties.description);
+					});
+				});		
+				
+			var active_transportation = omnivore.kml('https://raw.githubusercontent.com/BK01/community-maps/gh-pages/kml/active_transportation.kml', null, activeTransportationLayer)
+				.on('ready', function() {
+					active_transportation.eachLayer(function(layer) {
+						layer.bindPopup(layer.feature.properties.description);
+					});
+				});
+
+			var public_transportation = omnivore.kml('https://raw.githubusercontent.com/BK01/community-maps/gh-pages/kml/public_transportation.kml', null, publicTransportationLayer)
+				.on('ready', function() {
+					public_transportation.eachLayer(function(layer) {
+						layer.bindPopup(layer.feature.properties.description);
+					});
+				});
+
+			var traffic_calming = omnivore.kml('https://raw.githubusercontent.com/BK01/community-maps/gh-pages/kml/traffic_calming.kml', null, trafficCalmingLayer)
+				.on('ready', function() {
+					traffic_calming.eachLayer(function(layer) {
+						layer.bindPopup(layer.feature.properties.description);
+					});
+				});		
+
+			var Neighbourhood_Boundaries = omnivore.kml('https://raw.githubusercontent.com/BK01/community-maps/gh-pages/kml/Neighbourhood_Boundaries.kml', null, neighbourhoodLayer)
+				.on('ready', function() {
+					Neighbourhood_Boundaries.eachLayer(function(layer) {
+						layer.bindPopup(layer.feature.properties.Neighbourhood);
+					});
+				});		
+				
+			var baseLayers = {
+				"CyclOSM": CyclOSM,
+				"OpenStreetMap": osm
+			};
+			
+			var overlays = {
+				"Placemaking": Placemaking,
+				"Active transportation": active_transportation,
+				"Public transportation": public_transportation,
+				"Traffic calming": traffic_calming,
+				"Victoria neighbourhoods": Neighbourhood_Boundaries
+			};
+			L.control.layers(baseLayers, overlays).addTo(map);
+
+			L.control.locate({
+				position: 'topleft',
+				drawCircle: true,
+				follow: false,
+				setView: true,
+				keepCurrentZoomLevel: false,
+				stopFollowingOnDrag: false,
+				remainActive: false,
+				markerClass: L.circleMarker, // L.circleMarker or L.marker
+				circleStyle: {},
+				markerStyle: {},
+				followCircleStyle: {},
+				followMarkerStyle: {},
+				icon: 'glyphicon glyphicon-map-marker',
+				iconLoading: 'glyphicon glyphicon-time',
+				circlePadding: [0, 0],
+				metric: true,
+				onLocationError: function(err) {alert(err.message)},
+				onLocationOutsideMapBounds:  function(context) { // called when outside map boundaries
+						alert(context.options.strings.outsideMapBoundsMsg);
+				},
+				showPopup: true, // display a popup when the user click on the inner marker
+				strings: {
+					title: "Show me where I am",
+					metersUnit: "meters",
+					feetUnit: "feet",
+					popup: "You are within {distance} {unit} from this point",
+					outsideMapBoundsMsg: "You are outside the boundaries of the map"
+				},
+				locateOptions: {}  // define location options e.g enableHighAccuracy: true or maxZoom: 10
+			}).addTo(map);
+				
+		}
+
+	</script>
+</head>
+
+
+<body onload="init()">
+    <div id="map"></div>
+</body>
+
+</html>
