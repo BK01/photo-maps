@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<title>The-Art-Map</title>
+	
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
+	<link rel="shortcut icon" type="image/x-icon" href="docs/images/favicon.ico" />
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-omnivore/0.3.4/leaflet-omnivore.js"></script>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/leaflet.locatecontrol/0.60.0/L.Control.Locate.min.css" type="text/css" />
+	<script src="https://cdn.jsdelivr.net/leaflet.locatecontrol/0.60.0/L.Control.Locate.min.js"></script>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+	<style>
+		html,
+		body,
+		#map {
+			height: 100%;
+		}
+	</style>
+
+	<script type="text/javascript">
+
+		function init() {
+
+			var map = L.map('map').setView([48.429786,-123.342246],16);	
+			// OSM Mapnik
+			var osmLink = "<a href='https://www.openstreetmap.org'>Open StreetMap</a>";
+
+			var osm = L.tileLayer(
+				'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+					attribution: '&copy; ' + osmLink,
+					maxZoom: 18
+				}).addTo(map),
+				paint = L.tileLayer(
+				'http://c.tile.stamen.com/watercolor/{z}/{x}/{y}.jpg', {
+				});
+			
+			customLayer = L.geoJson(null, {
+					style: {
+					"fillColor": "white",
+					"color": "red",
+					"weight": 2,
+					"opacity": 1}
+				}).addTo(map);
+				
+			var Neighbourhood_Boundaries = omnivore.kml('https://raw.githubusercontent.com/BK01/community-maps/gh-pages/kml/Neighbourhood_Boundaries.kml', null, customLayer)
+				.on('ready', function() {
+					Neighbourhood_Boundaries.eachLayer(function(layer) {
+						layer.bindPopup(layer.feature.properties.Neighbourhood);
+					});
+				}).addTo(map);
+			
+			var Painted_Poles = omnivore.kml('https://raw.githubusercontent.com/BK01/community-maps/gh-pages/kml/Fernwood_pole_painting.kml')
+				.on('ready', function() {
+					map.fitBounds(Painted_Poles.getBounds());
+					Painted_Poles.eachLayer(function(layer) {
+						layer.bindPopup(layer.feature.properties.description, {maxWidth: "auto", maxHeight: 825, closeOnClick: true});
+					});
+				}).addTo(map);
+				
+			var baseLayers = {
+				"OpenStreetMap": osm,
+				"Watercolour": paint
+			};
+			
+			var overlays = {
+				"Neighbourhood Boundaries": Neighbourhood_Boundaries,
+				"Painted Poles (Spring 2020)": Painted_Poles
+			};
+			L.control.layers(baseLayers, overlays).addTo(map);
+
+			L.control.locate({
+				position: 'topleft',
+				drawCircle: true,
+				follow: false,
+				setView: true,
+				keepCurrentZoomLevel: false,
+				stopFollowingOnDrag: false,
+				remainActive: false,
+				markerClass: L.circleMarker, // L.circleMarker or L.marker
+				circleStyle: {},
+				markerStyle: {},
+				followCircleStyle: {},
+				followMarkerStyle: {},
+				icon: 'glyphicon glyphicon-map-marker',
+				iconLoading: 'glyphicon glyphicon-time',
+				circlePadding: [0, 0],
+				metric: true,
+				onLocationError: function(err) {alert(err.message)},
+				onLocationOutsideMapBounds:  function(context) { // called when outside map boundaries
+						alert(context.options.strings.outsideMapBoundsMsg);
+				},
+				showPopup: true, // display a popup when the user click on the inner marker
+				strings: {
+					title: "Show me where I am",
+					metersUnit: "meters",
+					feetUnit: "feet",
+					popup: "You are within {distance} {unit} from this point",
+					outsideMapBoundsMsg: "You are outside the boundaries of the map"
+				},
+				locateOptions: {}  // define location options e.g enableHighAccuracy: true or maxZoom: 10
+			}).addTo(map);
+				
+		}
+
+	</script>
+</head>
+
+
+<body onload="init()">
+    <div id="map"></div>
+</body>
+
+</html>
