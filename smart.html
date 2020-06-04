@@ -27,7 +27,7 @@
 		function init() {
 
 			var map = L.map('map').setView([48.447201,-123.355112],13);	
-			// OSM Mapnik
+			
 			var osmLink = "<a href='https://www.openstreetmap.org'>Open StreetMap</a>";
 
 			var osm = L.tileLayer(
@@ -81,35 +81,35 @@
 					"opacity": 1}
 				}).addTo(map);	
 
-			var Placemaking = omnivore.kml('https://raw.githubusercontent.com/BK01/community-maps/gh-pages/kml/Placemaking.kml', null, placemakingLayer)
+			var Placemaking = omnivore.kml('https://raw.githubusercontent.com/BK01/photo-maps/gh-pages/kml/placemaking.kml', null, placemakingLayer)
 				.on('ready', function() {
 					Placemaking.eachLayer(function(layer) {
 						layer.bindPopup(layer.feature.properties.description);
 					});
 				});		
 				
-			var active_transportation = omnivore.kml('https://raw.githubusercontent.com/BK01/community-maps/gh-pages/kml/active_transportation.kml', null, activeTransportationLayer)
+			var active_transportation = omnivore.kml('https://raw.githubusercontent.com/BK01/photo-maps/gh-pages/kml/active_transportation.kml', null, activeTransportationLayer)
 				.on('ready', function() {
 					active_transportation.eachLayer(function(layer) {
 						layer.bindPopup(layer.feature.properties.description);
 					});
 				});
 
-			var public_transportation = omnivore.kml('https://raw.githubusercontent.com/BK01/community-maps/gh-pages/kml/public_transportation.kml', null, publicTransportationLayer)
+			var public_transportation = omnivore.kml('https://raw.githubusercontent.com/BK01/photo-maps/gh-pages/kml/public_transportation.kml', null, publicTransportationLayer)
 				.on('ready', function() {
 					public_transportation.eachLayer(function(layer) {
 						layer.bindPopup(layer.feature.properties.description);
 					});
 				});
 
-			var traffic_calming = omnivore.kml('https://raw.githubusercontent.com/BK01/community-maps/gh-pages/kml/traffic_calming.kml', null, trafficCalmingLayer)
+			var traffic_calming = omnivore.kml('https://raw.githubusercontent.com/BK01/photo-maps/gh-pages/kml/traffic_calming.kml', null, trafficCalmingLayer)
 				.on('ready', function() {
 					traffic_calming.eachLayer(function(layer) {
 						layer.bindPopup(layer.feature.properties.description);
 					});
 				});		
 
-			var Neighbourhood_Boundaries = omnivore.kml('https://raw.githubusercontent.com/BK01/community-maps/gh-pages/kml/Neighbourhood_Boundaries.kml', null, neighbourhoodLayer)
+			var Neighbourhood_Boundaries = omnivore.kml('https://raw.githubusercontent.com/BK01/photo-maps/gh-pages/kml/neighbourhood_boundaries.kml', null, neighbourhoodLayer)
 				.on('ready', function() {
 					Neighbourhood_Boundaries.eachLayer(function(layer) {
 						layer.bindPopup(layer.feature.properties.Neighbourhood);
@@ -148,10 +148,10 @@
 				circlePadding: [0, 0],
 				metric: true,
 				onLocationError: function(err) {alert(err.message)},
-				onLocationOutsideMapBounds:  function(context) { // called when outside map boundaries
+				onLocationOutsideMapBounds:  function(context) {
 						alert(context.options.strings.outsideMapBoundsMsg);
 				},
-				showPopup: true, // display a popup when the user click on the inner marker
+				showPopup: true,
 				strings: {
 					title: "Show me where I am",
 					metersUnit: "meters",
@@ -159,7 +159,7 @@
 					popup: "You are within {distance} {unit} from this point",
 					outsideMapBoundsMsg: "You are outside the boundaries of the map"
 				},
-				locateOptions: {}  // define location options e.g enableHighAccuracy: true or maxZoom: 10
+				locateOptions: {}
 			}).addTo(map);
 				
 		}
