@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
-	<name>Fernwood_pole_painting.kml</name>
+	<name>pole_painting.kml</name>
 	<Style id="pole_icon">
 		<IconStyle>
 			<color>ff00aaff</color>
@@ -1334,7 +1334,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/49839464948/in/album-72157713976508467/" title="_BK06017"><img src="https://live.staticflickr.com/65535/49839464948_2a3a5ba823_k.jpg" width="533" height="800" alt="_BK06017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+			<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/49965112471/in/album-72157713976508467/" title="DSCN8241"><img src="https://live.staticflickr.com/65535/49965112471_bb8d773629_c.jpg" width="604" height="800" alt="DSCN8241"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/49839464948/in/album-72157713976508467/" title="_BK06017"><img src="https://live.staticflickr.com/65535/49839464948_2a3a5ba823_k.jpg" width="533" height="800" alt="_BK06017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
 			<styleUrl>#pole_icon</styleUrl>
 			<Point>
 				<coordinates>-123.3437087049183,48.43138166378658,0</coordinates>
@@ -1730,7 +1730,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/49861887581/in/album-72157713976508467/" title="_BK06186"><img src="https://live.staticflickr.com/65535/49861887581_336ded02e4_c.jpg" width="533" height="800" alt="_BK06186"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+			<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/49861887581/in/album-72157713976508467/" title="_BK06186"><img src="https://live.staticflickr.com/65535/49861887581_336ded02e4_c.jpg" width="533" height="800" alt="_BK06186"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/49968709316/in/album-72157713976508467/" title="_BK06806"><img src="https://live.staticflickr.com/65535/49968709316_64972e32da_c.jpg" width="533" height="800" alt="_BK06806"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
 			<styleUrl>#pole_icon</styleUrl>
 			<Point>
 				<coordinates>-123.3469251841377,48.42862035035088,0</coordinates>
