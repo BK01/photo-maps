@@ -3151,7 +3151,6 @@
 		</Placemark>
 		<Placemark>
 			<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/49952841722/in/album-72157713976508467/" title="_BK06560"><img src="https://live.staticflickr.com/65535/49952841722_a2c9ffa3b0_c.jpg" width="533" height="800" alt="_BK06560"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
-				<tilt>45.00007689871229</tilt>
 			<styleUrl>#pole_icon</styleUrl>
 			<Point>
 				<coordinates>-123.3454593841792,48.42437674950178,0</coordinates>
@@ -3860,7 +3859,6 @@
 		</Placemark>
 		<Placemark>
 			<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/49968197133/in/album-72157713976508467/" title="_BK06809"><img src="https://live.staticflickr.com/65535/49968197133_0a89fa2b48_c.jpg" width="542" height="800" alt="_BK06809"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
-				<tilt>45.00028398367979</tilt>
 			<styleUrl>#pole_icon</styleUrl>
 			<Point>
 				<coordinates>-123.3482620476358,48.42879774894639,0</coordinates>
