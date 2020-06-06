@@ -152,7 +152,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/49799088798/in/album-72157713976508467/" title="_BK05773"><img src="https://live.staticflickr.com/65535/49799088798_d44b05f126_c.jpg" width="533" height="800" alt="_BK05773"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+			<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/49971862988/in/album-72157713976508467/" title="_BK06838"><img src="https://live.staticflickr.com/65535/49971862988_ed7d7b6dfc_c.jpg" width="526" height="800" alt="_BK06838"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/49799088798/in/album-72157713976508467/" title="_BK05773"><img src="https://live.staticflickr.com/65535/49799088798_d44b05f126_c.jpg" width="533" height="800" alt="_BK05773"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
 			<styleUrl>#pole_icon</styleUrl>
 			<Point>
 				<coordinates>-123.3442902148445,48.43615755698302,0</coordinates>
@@ -2422,7 +2422,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/49884696178/in/album-72157713976508467/" title="_BK06339"><img src="https://live.staticflickr.com/65535/49884696178_f60ca4dbeb_c.jpg" width="506" height="800" alt="_BK06339"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+			<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/49971861608/in/album-72157713976508467/" title="DSCN8241"><img src="https://live.staticflickr.com/65535/49971861608_8793d16b70_c.jpg" width="604" height="800" alt="DSCN8241"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/49884696178/in/album-72157713976508467/" title="_BK06339"><img src="https://live.staticflickr.com/65535/49884696178_f60ca4dbeb_c.jpg" width="506" height="800" alt="_BK06339"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
 			<styleUrl>#pole_icon</styleUrl>
 			<Point>
 				<coordinates>-123.3451310103498,48.43011296491494,0</coordinates>
@@ -3934,7 +3934,6 @@
 		</Placemark>
 		<Placemark>
 			<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/49965344607/in/album-72157714556734097/" title="_BK06665"><img src="https://live.staticflickr.com/65535/49965344607_3abd14f939_c.jpg" width="533" height="800" alt="_BK06665"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
-			<LookAt>
 			<styleUrl>#pole_icon</styleUrl>
 			<Point>
 				<coordinates>-123.3427109994441,48.41236548589266,0</coordinates>
