@@ -5,9 +5,9 @@
 	<Style id="pole_icon">
 		<IconStyle>
 			<color>ff00aaff</color>
-			<scale>2.33333</scale>
+			<scale>1.0</scale>
 			<Icon>
-				<href>https://github.com/BK01/photo-maps/raw/gh-pages/img/baseline_location_on_black_18dp.png</href>
+				<href>https://github.com/BK01/photo-maps/raw/gh-pages/img/pin.png</href>
 			</Icon>
 		</IconStyle>
 	</Style>
