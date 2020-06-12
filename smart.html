@@ -84,7 +84,7 @@
 			var Placemaking = omnivore.kml('https://raw.githubusercontent.com/BK01/photo-maps/gh-pages/kml/placemaking.kml', null, placemakingLayer)
 				.on('ready', function() {
 					Placemaking.eachLayer(function(layer) {
-						layer.bindPopup(layer.feature.properties.description);
+						layer.bindPopup(layer.feature.properties.description, {maxWidth: "auto", maxHeight: 825, closeOnClick: true});
 					});
 				});		
 				
