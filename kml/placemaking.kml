@@ -2,76 +2,115 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>Placemaking.kml</name>
+	<open>1</open>
 	<Style id="placemaking">
 		<IconStyle>
 			<scale>1.2</scale>
 			<Icon>
-				<href>https://github.com/BK01/art-map/raw/gh-pages/img/placemaking.png</href>
+				<href>https://github.com/BK01/photo-maps/raw/gh-pages/img/placemaking.png</href>
 			</Icon>
 		</IconStyle>
 	</Style>
-		<Placemark>
-			<description>Coming soon</description>
-			<styleUrl>#placemaking</styleUrl>
-			<Point>
-				<coordinates>-123.3645673421226,48.42456451850906,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description>Coming soon</description>
-			<styleUrl>#placemaking</styleUrl>
-			<Point>
-				<coordinates>-123.3700358956974,48.42865627812815,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description>Coming soon</description>
-			<styleUrl>#placemaking</styleUrl>
-			<Point>
-				<coordinates>-123.3729062748872,48.42794209353128,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description>Coming soon</description>
-			<styleUrl>#placemaking</styleUrl>
-			<Point>
-				<coordinates>-123.3711210765147,48.42822328744635,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description>Coming soon</description>
-			<styleUrl>#placemaking</styleUrl>
-			<Point>
-				<coordinates>-123.3455104159249,48.43048047532115,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description>Coming soon</description>
-			<styleUrl>#placemaking</styleUrl>
-			<Point>
-				<coordinates>-123.369673433558,48.42875015914343,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description>Coming soon</description>
-			<styleUrl>#placemaking</styleUrl>
-			<Point>
-				<coordinates>-123.3656596014856,48.42192399174807,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description>Coming soon</description>
-			<styleUrl>#placemaking</styleUrl>
-			<Point>
-				<coordinates>-123.3701380759515,48.42297931564719,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description>Coming soon</description>
-			<styleUrl>#placemaking</styleUrl>
-			<Point>
-				<coordinates>-123.370300440876,48.42335633033924,0</coordinates>
-			</Point>
-		</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#placemaking</styleUrl>
+		<Point>
+			<coordinates>-123.3645673421226,48.42456451850906,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#placemaking</styleUrl>
+		<Point>
+			<coordinates>-123.3700358956974,48.42865627812814,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#placemaking</styleUrl>
+		<Point>
+			<coordinates>-123.3729062748872,48.42794209353128,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#placemaking</styleUrl>
+		<Point>
+			<coordinates>-123.3711210765147,48.42822328744635,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#placemaking</styleUrl>
+		<Point>
+			<coordinates>-123.3455104159249,48.43048047532115,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#placemaking</styleUrl>
+		<Point>
+			<coordinates>-123.369673433558,48.42875015914343,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/49996532173/in/dateposted-public/" title="_BK06900"><img src="https://live.staticflickr.com/65535/49996532173_22b5ce320d_c.jpg" width="800" height="525" alt="_BK06900"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#placemaking</styleUrl>
+		<Point>
+			<coordinates>-123.3656203474221,48.42192802551573,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#placemaking</styleUrl>
+		<Point>
+			<coordinates>-123.3701380759515,48.42297931564719,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#placemaking</styleUrl>
+		<Point>
+			<coordinates>-123.370300440876,48.42335633033924,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/49997304827/in/album-72157714668192451/" title="_BK06904"><img src="https://live.staticflickr.com/65535/49997304827_7bda2bbf97_c.jpg" width="800" height="533" alt="_BK06904"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<LookAt>
+			<gx:TimeStamp><when>2017-09-05T00:12:08Z</when>
+</gx:TimeStamp>
+			<longitude>-123.3656575033207</longitude>
+			<latitude>48.42187723090149</latitude>
+			<altitude>0</altitude>
+			<heading>-0.004824497099776908</heading>
+			<tilt>0</tilt>
+			<range>88.87610823796314</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#placemaking</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-123.3658530636359,48.42200728390227,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/49996530983/in/album-72157714668192451/" title="_BK06905"><img src="https://live.staticflickr.com/65535/49996530983_526cf553cc_c.jpg" width="800" height="533" alt="_BK06905"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<LookAt>
+			<gx:TimeStamp><when>2017-09-05T00:12:08Z</when>
+</gx:TimeStamp>
+			<longitude>-123.3656575033207</longitude>
+			<latitude>48.42187723090149</latitude>
+			<altitude>0</altitude>
+			<heading>-0.004824497099776908</heading>
+			<tilt>0</tilt>
+			<range>88.87610823796314</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#placemaking</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-123.3657495276458,48.42190805354367,0</coordinates>
+		</Point>
+	</Placemark>
 </Document>
 </kml>
