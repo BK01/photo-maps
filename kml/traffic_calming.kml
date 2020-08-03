@@ -2,6 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>traffic_calming</name>
+	<open>1</open>
 	<Style id="traffic_calming">
 		<IconStyle>
 			<scale>1.4</scale>
@@ -10,124 +11,546 @@
 			</Icon>
 		</IconStyle>
 	</Style>
-		<Placemark>
-			<description>Coming soon</description>
+	<StyleMap id="traffic_calming0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#traffic_calming14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#traffic_calming4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="traffic_calming1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#traffic_calming27</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#traffic_calming3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="traffic_calming2">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://github.com/BK01/art-map/raw/gh-pages/img/thumbs-up.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="traffic_calming3">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://github.com/BK01/art-map/raw/gh-pages/img/thumbs-up.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="traffic_calming4">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://github.com/BK01/art-map/raw/gh-pages/img/thumbs-up.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="traffic_calming5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#traffic_calming25</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#traffic_calming22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="traffic_calming6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#traffic_calming13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#traffic_calming19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="traffic_calming7">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://github.com/BK01/art-map/raw/gh-pages/img/thumbs-up.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="traffic_calming8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#traffic_calming20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#traffic_calming23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="traffic_calming9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#traffic_calming2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#traffic_calming31</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="traffic_calming10">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://github.com/BK01/art-map/raw/gh-pages/img/thumbs-up.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="traffic_calming11">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://github.com/BK01/art-map/raw/gh-pages/img/thumbs-up.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="traffic_calming12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#traffic_calming7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#traffic_calming32</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="traffic_calming13">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://github.com/BK01/art-map/raw/gh-pages/img/thumbs-up.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="traffic_calming14">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://github.com/BK01/art-map/raw/gh-pages/img/thumbs-up.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="traffic_calming15">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://github.com/BK01/art-map/raw/gh-pages/img/thumbs-up.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="traffic_calming16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#traffic_calming15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#traffic_calming11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="traffic_calming17">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://github.com/BK01/art-map/raw/gh-pages/img/thumbs-up.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="traffic_calming18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#traffic_calming17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
 			<styleUrl>#traffic_calming</styleUrl>
-			<Point>
-				<coordinates>-123.3335909067076,48.43604117744938,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description>Coming soon</description>
-			<styleUrl>#traffic_calming</styleUrl>
-			<Point>
-				<coordinates>-123.3283368281905,48.44623639892707,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description>Coming soon</description>
-			<styleUrl>#traffic_calming</styleUrl>
-			<Point>
-				<coordinates>-123.3509787952726,48.44126208204316,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description>Coming soon</description>
-			<styleUrl>#traffic_calming</styleUrl>
-			<Point>
-				<coordinates>-123.3454064725434,48.41678018017939,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description>Coming soon</description>
-			<styleUrl>#traffic_calming</styleUrl>
-			<Point>
-				<coordinates>-123.3557401750271,48.43068249306818,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description>Coming soon</description>
-			<styleUrl>#traffic_calming</styleUrl>
-			<Point>
-				<coordinates>-123.3594386355602,48.41670296947079,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description>Coming soon</description>
-			<styleUrl>#traffic_calming</styleUrl>
-			<Point>
-				<coordinates>-123.3494641018101,48.43354868193939,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description>Coming soon</description>
-			<styleUrl>#traffic_calming</styleUrl>
-			<Point>
-				<coordinates>-123.3628239228948,48.41978795826309,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description>Coming soon</description>
-			<styleUrl>#traffic_calming</styleUrl>
-			<Point>
-				<coordinates>-123.3494735559656,48.43264659704219,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description>Coming soon</description>
-			<styleUrl>#traffic_calming</styleUrl>
-			<Point>
-				<coordinates>-123.3287070000779,48.43592202799837,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description>Coming soon</description>
-			<styleUrl>#traffic_calming</styleUrl>
-			<Point>
-				<coordinates>-123.3682923583414,48.43022367690273,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description>Coming soon</description>
-			<styleUrl>#traffic_calming</styleUrl>
-			<Point>
-				<coordinates>-123.3335506338198,48.43800799701917,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description>Coming soon</description>
-			<styleUrl>#traffic_calming</styleUrl>
-			<Point>
-				<coordinates>-123.3331510039556,48.43248023334655,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description>Coming soon</description>
-			<styleUrl>#traffic_calming</styleUrl>
-			<Point>
-				<coordinates>-123.3329160598513,48.43051216812593,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description>Coming soon</description>
-			<styleUrl>#traffic_calming</styleUrl>
-			<Point>
-				<coordinates>-123.3294575009089,48.43230684720776,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description>Coming soon</description>
-			<styleUrl>#traffic_calming</styleUrl>
-			<Point>
-				<coordinates>-123.3532015003675,48.43819661001232,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<description>Coming soon</description>
-			<styleUrl>#traffic_calming</styleUrl>
-			<Point>
-				<coordinates>-123.3571845479258,48.43768868956699,0</coordinates>
-			</Point>
-		</Placemark>
+		</Pair>
+	</StyleMap>
+	<Style id="traffic_calming19">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://github.com/BK01/art-map/raw/gh-pages/img/thumbs-up.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="traffic_calming20">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://github.com/BK01/art-map/raw/gh-pages/img/thumbs-up.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="traffic_calming21">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://github.com/BK01/art-map/raw/gh-pages/img/thumbs-up.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="traffic_calming22">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://github.com/BK01/art-map/raw/gh-pages/img/thumbs-up.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="traffic_calming23">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://github.com/BK01/art-map/raw/gh-pages/img/thumbs-up.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="traffic_calming24">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://github.com/BK01/art-map/raw/gh-pages/img/thumbs-up.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="traffic_calming25">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://github.com/BK01/art-map/raw/gh-pages/img/thumbs-up.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="traffic_calming26">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#traffic_calming24</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#traffic_calming30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="traffic_calming27">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://github.com/BK01/art-map/raw/gh-pages/img/thumbs-up.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="traffic_calming28">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://github.com/BK01/art-map/raw/gh-pages/img/thumbs-up.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="traffic_calming29">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#traffic_calming21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#traffic_calming28</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="traffic_calming30">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://github.com/BK01/art-map/raw/gh-pages/img/thumbs-up.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="traffic_calming31">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://github.com/BK01/art-map/raw/gh-pages/img/thumbs-up.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="traffic_calming32">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://github.com/BK01/art-map/raw/gh-pages/img/thumbs-up.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<description>6977</description>
+		<styleUrl>#traffic_calming12</styleUrl>
+		<Point>
+			<coordinates>-123.3335909067076,48.43604117744938,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#traffic_calming10</styleUrl>
+		<Point>
+			<coordinates>-123.3283368281905,48.44623639892707,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#traffic_calming10</styleUrl>
+		<Point>
+			<coordinates>-123.3509787952726,48.44126208204316,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#traffic_calming10</styleUrl>
+		<Point>
+			<coordinates>-123.3454064725434,48.41678018017939,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#traffic_calming10</styleUrl>
+		<Point>
+			<coordinates>-123.3557401750271,48.43068249306818,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#traffic_calming10</styleUrl>
+		<Point>
+			<coordinates>-123.3594386355602,48.41670296947079,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Chambers bollards front</description>
+		<styleUrl>#traffic_calming29</styleUrl>
+		<Point>
+			<coordinates>-123.3494739378273,48.43339921670103,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#traffic_calming10</styleUrl>
+		<Point>
+			<coordinates>-123.3628239228948,48.41978795826309,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#traffic_calming10</styleUrl>
+		<Point>
+			<coordinates>-123.3494735559656,48.43264659704219,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#traffic_calming10</styleUrl>
+		<Point>
+			<coordinates>-123.3287070000779,48.43592202799837,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#traffic_calming10</styleUrl>
+		<Point>
+			<coordinates>-123.3682923583414,48.43022367690273,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#traffic_calming10</styleUrl>
+		<Point>
+			<coordinates>-123.3335506338198,48.43800799701917,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#traffic_calming10</styleUrl>
+		<Point>
+			<coordinates>-123.3331510039556,48.43248023334655,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#traffic_calming10</styleUrl>
+		<Point>
+			<coordinates>-123.3329160598513,48.43051216812593,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#traffic_calming10</styleUrl>
+		<Point>
+			<coordinates>-123.3294575009089,48.43230684720776,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#traffic_calming10</styleUrl>
+		<Point>
+			<coordinates>-123.3532015003675,48.43819661001232,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>6409</description>
+		<styleUrl>#traffic_calming8</styleUrl>
+		<Point>
+			<coordinates>-123.3570749942943,48.43770810199934,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Chambers actual bollards</description>
+		<LookAt>
+			<longitude>-123.3493590868888</longitude>
+			<latitude>48.43357729392525</latitude>
+			<altitude>0</altitude>
+			<heading>-0.01376299376512012</heading>
+			<tilt>0</tilt>
+			<range>77.53280675492707</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#traffic_calming16</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-123.3494548296878,48.43359751259781,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>6270</description>
+		<LookAt>
+			<longitude>-123.3339539923691</longitude>
+			<latitude>48.43020277080574</latitude>
+			<altitude>0</altitude>
+			<heading>-8.021667716672425</heading>
+			<tilt>0</tilt>
+			<range>87.77027739181142</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#traffic_calming5</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-123.3339345151583,48.4302066417749,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>6277</description>
+		<LookAt>
+			<longitude>-123.3361573583957</longitude>
+			<latitude>48.42938429885442</latitude>
+			<altitude>0</altitude>
+			<heading>-8.023316148986732</heading>
+			<tilt>0</tilt>
+			<range>103.3640924926175</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#traffic_calming26</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-123.336374728618,48.42933603637379,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>6301</description>
+		<LookAt>
+			<longitude>-123.3430987563748</longitude>
+			<latitude>48.4286022566169</latitude>
+			<altitude>0</altitude>
+			<heading>-96.460398273807</heading>
+			<tilt>45.45687895763454</tilt>
+			<range>102.2976729191914</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#traffic_calming9</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-123.3430987563748,48.42860225661689,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>6396</description>
+		<LookAt>
+			<longitude>-123.3554724713128</longitude>
+			<latitude>48.43198763753841</latitude>
+			<altitude>0</altitude>
+			<heading>-3.980797209137954</heading>
+			<tilt>0</tilt>
+			<range>48.46862344350378</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#traffic_calming6</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-123.3555847798221,48.43202979965798,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>6410</description>
+		<LookAt>
+			<longitude>-123.357188372939</longitude>
+			<latitude>48.43762967404316</latitude>
+			<altitude>0</altitude>
+			<heading>0.0006583929258511975</heading>
+			<tilt>0</tilt>
+			<range>138.8389576910571</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#traffic_calming0</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-123.357186989265,48.43768883967357,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>6411</description>
+		<LookAt>
+			<longitude>-123.357188372939</longitude>
+			<latitude>48.43762967404316</latitude>
+			<altitude>0</altitude>
+			<heading>0.0006583929258511975</heading>
+			<tilt>0</tilt>
+			<range>138.8389576910571</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#traffic_calming1</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-123.357290688114,48.43767875015391,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>7049</description>
+		<LookAt>
+			<longitude>-123.3341252377555</longitude>
+			<latitude>48.43597384391052</latitude>
+			<altitude>0</altitude>
+			<heading>0.01791441201941864</heading>
+			<tilt>0</tilt>
+			<range>238.1306061674135</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#traffic_calming18</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>-123.3335893180535,48.43594777190141,0</coordinates>
+		</Point>
+	</Placemark>
 </Document>
 </kml>
