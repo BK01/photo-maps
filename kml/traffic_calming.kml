@@ -1,1 +1,190 @@
-This attachment was removed because it contains data that could pose a security risk.
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>traffic_calming</name>
+	<open>1</open>
+	<Style id="traffic_calming">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://github.com/BK01/art-map/raw/gh-pages/img/thumbs-up.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<description><a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186375956/in/album-72157714192858382/" title="_BK06977"><img src="https://live.staticflickr.com/65535/50186375956_120b332718_c.jpg" width="800" height="533" alt="_BK06977"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></description>
+		<styleUrl>#traffic_calming</styleUrl>
+		<Point>
+			<coordinates>-123.3335909067076,48.43604117744938,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#traffic_calming</styleUrl>
+		<Point>
+			<coordinates>-123.3283368281905,48.44623639892707,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#traffic_calming</styleUrl>
+		<Point>
+			<coordinates>-123.3509787952726,48.44126208204316,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#traffic_calming</styleUrl>
+		<Point>
+			<coordinates>-123.3454064725434,48.41678018017939,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#traffic_calming</styleUrl>
+		<Point>
+			<coordinates>-123.3557401750271,48.43068249306818,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#traffic_calming</styleUrl>
+		<Point>
+			<coordinates>-123.3594386355602,48.41670296947079,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186641707/in/album-72157714192858382/" title="_BK06135"><img src="https://live.staticflickr.com/65535/50186641707_cb2604f179_c.jpg" width="800" height="533" alt="_BK06135"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></description>
+		<styleUrl>#traffic_calming</styleUrl>
+		<Point>
+			<coordinates>-123.3494739378273,48.43339921670103,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#traffic_calming</styleUrl>
+		<Point>
+			<coordinates>-123.3628239228948,48.41978795826309,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#traffic_calming</styleUrl>
+		<Point>
+			<coordinates>-123.3494735559656,48.43264659704219,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#traffic_calming</styleUrl>
+		<Point>
+			<coordinates>-123.3287070000779,48.43592202799837,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#traffic_calming</styleUrl>
+		<Point>
+			<coordinates>-123.3682923583414,48.43022367690273,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#traffic_calming</styleUrl>
+		<Point>
+			<coordinates>-123.3335506338198,48.43800799701917,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#traffic_calming</styleUrl>
+		<Point>
+			<coordinates>-123.3331510039556,48.43248023334655,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#traffic_calming</styleUrl>
+		<Point>
+			<coordinates>-123.3329160598513,48.43051216812593,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#traffic_calming</styleUrl>
+		<Point>
+			<coordinates>-123.3294575009089,48.43230684720776,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#traffic_calming</styleUrl>
+		<Point>
+			<coordinates>-123.3532015003675,48.43819661001232,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186380231/in/album-72157714192858382/" title="_BK06409"><img src="https://live.staticflickr.com/65535/50186380231_69c146b0ee_c.jpg" width="800" height="480" alt="_BK06409"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></description>
+		<styleUrl>#traffic_calming</styleUrl>
+		<Point>
+			<coordinates>-123.3570749942943,48.43770810199934,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186640457/in/album-72157714192858382/" title="_BK06136"><img src="https://live.staticflickr.com/65535/50186640457_f1526e9e23_c.jpg" width="800" height="533" alt="_BK06136"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></description>
+		<styleUrl>#traffic_calming</styleUrl>
+		<Point>
+			<coordinates>-123.3494548296878,48.43359751259781,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186386121/in/album-72157714192858382/" title="_BK06270"><img src="https://live.staticflickr.com/65535/50186386121_414718d5e8_c.jpg" width="800" height="533" alt="_BK06270"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></description>
+		<styleUrl>#traffic_calming</styleUrl>
+		<Point>
+			<coordinates>-123.3339345151583,48.4302066417749,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186637982/in/album-72157714192858382/" title="_BK06277"><img src="https://live.staticflickr.com/65535/50186637982_19cff8eb87_c.jpg" width="800" height="533" alt="_BK06277"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></description>
+		<styleUrl>#traffic_calming</styleUrl>
+		<Point>
+			<coordinates>-123.336374728618,48.42933603637379,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50185840568/in/album-72157714192858382/" title="_BK06301"><img src="https://live.staticflickr.com/65535/50185840568_da833092e7_c.jpg" width="800" height="533" alt="_BK06301"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></description>
+		<styleUrl>#traffic_calming</styleUrl>
+		<Point>
+			<coordinates>-123.3430987563748,48.42860225661689,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50185839203/in/album-72157714192858382/" title="_BK06396"><img src="https://live.staticflickr.com/65535/50185839203_a380b4edaa_c.jpg" width="800" height="533" alt="_BK06396"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></description>
+		<styleUrl>#traffic_calming</styleUrl>
+		<Point>
+			<coordinates>-123.3555847798221,48.43202979965798,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50185836113/in/album-72157714192858382/" title="_BK06410"><img src="https://live.staticflickr.com/65535/50185836113_f3f401fd83_c.jpg" width="800" height="487" alt="_BK06410"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></description>
+		<styleUrl>#traffic_calming</styleUrl>
+		<Point>
+			<coordinates>-123.357186989265,48.43768883967357,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186631352/in/album-72157714192858382/" title="_BK06411"><img src="https://live.staticflickr.com/65535/50186631352_345d395b10_c.jpg" width="800" height="533" alt="_BK06411"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></description>
+		<styleUrl>#traffic_calming</styleUrl>
+		<Point>
+			<coordinates>-123.357290688114,48.43767875015391,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50185831073/in/album-72157714192858382/" title="_BK07049"><img src="https://live.staticflickr.com/65535/50185831073_b3087ba951_c.jpg" width="800" height="533" alt="_BK07049"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></description>
+		<styleUrl>#traffic_calming</styleUrl>
+		<Point>
+			<coordinates>-123.3335893180535,48.43594777190141,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
