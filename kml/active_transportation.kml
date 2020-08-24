@@ -1,1 +1,919 @@
-This attachment was removed because it contains data that could pose a security risk.
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>active_transportation.kml</name>
+	<open>1</open>
+	<Style id="active_transportation">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3573454340986,48.4077386506156,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.361826989577,48.41102904298552,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3830575555444,48.4146057178495,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186074778/in/album-72157715352161363/" title="_BK06932"><img src="https://live.staticflickr.com/65535/50186074778_8cc181de9f_c.jpg" width="800" height="533" alt="_BK06932"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3683581883445,48.42292335677841,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3668765680402,48.42241306694188,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3690915479526,48.42309347806565,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3682801654195,48.42259258120063,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3698556397721,48.42512060174542,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.364038172665,48.42453363032595,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3713830507985,48.42849688701474,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3531285180682,48.42899626423375,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3619465712064,48.42787906774948,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3678373954132,48.42854928211092,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3742174553062,48.42809825352724,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3788351881237,48.43340646105557,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3789560302146,48.4456346825118,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[Pedestrian safety upgrade - Removed yield lane
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186870562/in/album-72157715352161363/" title="_BK06946"><img src="https://live.staticflickr.com/65535/50186870562_bf06d7fb50_c.jpg" width="800" height="533" alt="_BK06946"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3591642346792,48.41673820827923,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.36705840386,48.42750332793256,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3451355483067,48.43029530404119,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3652513397726,48.42642300594454,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3703366228506,48.41809968370586,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3700757281838,48.41821637540486,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3618500814598,48.40855152654575,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186064793/in/album-72157715352161363/" title="_BK07128"><img src="https://live.staticflickr.com/65535/50186064793_ae8114ef3d_c.jpg" width="800" height="533" alt="_BK07128"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3630754923977,48.41340523589235,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186615691/in/album-72157715352161363/" title="_BK06978"><img src="https://live.staticflickr.com/65535/50186615691_71ac795f56_c.jpg" width="800" height="533" alt="_BK06978"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.324855660082,48.43911128568791,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3378227282712,48.44311646121912,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3271753316677,48.44619889114735,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3260137433888,48.44625128777833,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3895842959993,48.43139650246033,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3804744980127,48.42626861637246,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3860975358749,48.42813562244478,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3940218731461,48.4290153676138,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186080778/in/album-72157715352161363/" title="_BK06520"><img src="https://live.staticflickr.com/65535/50186080778_dd583f4aaf_c.jpg" width="800" height="487" alt="_BK06520"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3367556789878,48.42666646675615,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3767528983569,48.45691431018923,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3705464287818,48.46137053836794,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3614164719366,48.47088165334923,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3611954565876,48.47196360876186,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3563861167244,48.47635231641561,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3596005389466,48.47583823373029,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3831739006163,48.437912186972,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3710104968742,48.42718650335063,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.370142074585,48.42610129767436,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3681299086023,48.42569883838526,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3690876223315,48.42582153965574,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3688821087732,48.42806339819241,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186620226/in/album-72157715352161363/" title="_BK06905"><img src="https://live.staticflickr.com/65535/50186620226_5fb772b282_c.jpg" width="800" height="533" alt="_BK06905"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.365737425349,48.42193925941222,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3595703054296,48.42250140830163,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3564433455176,48.42365924609965,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.360696434903,48.42416961035968,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3675570642974,48.42487932532647,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3799232436292,48.44136834803825,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3621235346087,48.44536164464389,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3629388994271,48.44523914700638,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>bike button</name>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3563941295924,48.4396409820495,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>button</name>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3522858243962,48.43629390767314,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Sensor</name>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3613546934806,48.47030017799648,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3636862798039,48.41208054110208,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3642203045488,48.42803670939302,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3586681517987,48.42751586442951,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3538709118672,48.42724797794166,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3317320245743,48.4460507541906,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3281079540559,48.44608180487825,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186614086/in/album-72157715352161363/" title="_BK06980"><img src="https://live.staticflickr.com/65535/50186614086_f6e3231694_c.jpg" width="800" height="533" alt="_BK06980"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3247513132575,48.44071132093545,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3228981299371,48.44621010211682,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.404208010069,48.43746470381782,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.4229664331217,48.43756841015885,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.4284999446416,48.44644338295311,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.4327065973299,48.45596151180921,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.4466819612165,48.46042070759707,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.433856908845,48.4641873403391,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.4040807916715,48.46046394296858,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3852607034829,48.45713104820699,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>bike parking</name>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3159864968233,48.42627409055426,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Bike lanes?</name>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.319857631445,48.43243458032105,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3156658126328,48.43072785726871,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3175366443865,48.43089741305319,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>no beg button</name>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3380462878774,48.44366772441928,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3384133021394,48.44412491791978,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.356741556687,48.45400652271019,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3534322891322,48.45174089913206,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3521737531278,48.45101885874106,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3776393676628,48.45592248756745,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3924319422004,48.45538510970342,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3340042825287,48.46853925245583,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.4074741551215,48.44914811268403,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.4226020822221,48.45253601967579,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.400435584684,48.49166903392442,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.4526905044492,48.46067246143164,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.4570732557047,48.4599350533825,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.4649092392855,48.45791026960348,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.4727456324747,48.44813033320364,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.4930496137333,48.44768195884907,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.5079832199474,48.44507754006145,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.4096946000878,48.43794325202652,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.431644644936,48.45225558118904,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.4311644710079,48.45282090616681,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.4310179423606,48.45270947672735,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.4294286476996,48.45264411962308,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description>Coming soon</description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.4291672103728,48.44218718658697,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186650347/in/album-72157715352161363/" title="_BK06133"><img src="https://live.staticflickr.com/65535/50186650347_0d39283469_c.jpg" width="800" height="533" alt="_BK06133"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.349511475425,48.43270597884806,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186395921/in/album-72157715352161363/" title="_BK06399"><img src="https://live.staticflickr.com/65535/50186395921_3ba9803f3f_c.jpg" width="800" height="494" alt="_BK06399"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3523291387022,48.4335660125236,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186394821/in/album-72157715352161363/" title="_BK06412"><img src="https://live.staticflickr.com/65535/50186394821_e16b2edd63_c.jpg" width="800" height="523" alt="_BK06412"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3573800392532,48.43779211495401,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186883872/in/album-72157715352161363/" title="_BK06361"><img src="https://live.staticflickr.com/65535/50186883872_f19dfdc0e1_c.jpg" width="800" height="543" alt="_BK06361"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3699151690866,48.42829671751133,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186630381/in/album-72157715352161363/" title="_BK06364"><img src="https://live.staticflickr.com/65535/50186630381_7e7260fec9_c.jpg" width="800" height="533" alt="_BK06364"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3697551392533,48.4285517909162,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186084943/in/album-72157715352161363/" title="_BK06396"><img src="https://live.staticflickr.com/65535/50186084943_d3c1b644d4_c.jpg" width="800" height="533" alt="_BK06396"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3555819485786,48.43202015927611,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186084138/in/album-72157715352161363/" title="_BK06411"><img src="https://live.staticflickr.com/65535/50186084138_5e64b36705_c.jpg" width="800" height="533" alt="_BK06411"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3572725663633,48.43767629297439,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186881007/in/album-72157715352161363/" title="_BK06419"><img src="https://live.staticflickr.com/65535/50186881007_ab7d8faed6_c.jpg" width="800" height="533" alt="_BK06419"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3632296951657,48.41537820628007,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186082428/in/album-72157715352161363/" title="_BK06424"><img src="https://live.staticflickr.com/65535/50186082428_f1f7c0a808_c.jpg" width="800" height="533" alt="_BK06424"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3611717977746,48.41207025747963,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186625906/in/album-72157715352161363/" title="_BK06517"><img src="https://live.staticflickr.com/65535/50186625906_0841d793c4_c.jpg" width="533" height="800" alt="_BK06517"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3367924394421,48.4264359190488,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186878197/in/album-72157715352161363/" title="_BK06522"><img src="https://live.staticflickr.com/65535/50186878197_a817a84d1b_c.jpg" width="800" height="533" alt="_BK06522"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3364998198705,48.42680705900326,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186624356/in/album-72157715352161363/" title="_BK06663"><img src="https://live.staticflickr.com/65535/50186624356_dc57ee78de_c.jpg" width="800" height="533" alt="_BK06663"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3371816768492,48.41240153556025,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186876552/in/album-72157715352161363/" title="_BK06664"><img src="https://live.staticflickr.com/65535/50186876552_8103c24b35_c.jpg" width="800" height="533" alt="_BK06664"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3371997164638,48.41262472035536,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186875727/in/album-72157715352161363/" title="_BK06717"><img src="https://live.staticflickr.com/65535/50186875727_1bf5e6bd9b_c.jpg" width="800" height="526" alt="_BK06717"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3528074044651,48.43033008873018,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186621911/in/album-72157715352161363/" title="_BK06752"><img src="https://live.staticflickr.com/65535/50186621911_df716eeb13_c.jpg" width="800" height="533" alt="_BK06752"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3528894148746,48.42969285730563,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186621091/in/album-72157715352161363/" title="_BK06753"><img src="https://live.staticflickr.com/65535/50186621091_669873e928_c.jpg" width="800" height="533" alt="_BK06753"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3529218027993,48.42945631733598,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186074188/in/album-72157715352161363/" title="_BK06937"><img src="https://live.staticflickr.com/65535/50186074188_39bbfb7b83_c.jpg" width="800" height="533" alt="_BK06937"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3682173945402,48.42278746529594,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186871307/in/album-72157715352161363/" title="_BK06939"><img src="https://live.staticflickr.com/65535/50186871307_c64cc11449_c.jpg" width="800" height="525" alt="_BK06939"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3626594031765,48.41751158076153,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[Pedestrian safety upgrade - removed yield lane
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186616501/in/album-72157715352161363/" title="_BK06947"><img src="https://live.staticflickr.com/65535/50186616501_1c3c7db606_c.jpg" width="800" height="533" alt="_BK06947"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3591819533013,48.4166261527666,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186868052/in/album-72157715352161363/" title="_BK06979"><img src="https://live.staticflickr.com/65535/50186868052_d9250e34a4_c.jpg" width="800" height="533" alt="_BK06979"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.324839173234,48.4389174052525,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186866337/in/album-72157715352161363/" title="_BK06982"><img src="https://live.staticflickr.com/65535/50186866337_bb87439e2b_c.jpg" width="800" height="533" alt="_BK06982"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3247404879393,48.44089402287874,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186865487/in/album-72157715352161363/" title="_BK07047"><img src="https://live.staticflickr.com/65535/50186865487_3c37669d32_c.jpg" width="800" height="533" alt="_BK07047"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3185227294266,48.42658572044836,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186067198/in/album-72157715352161363/" title="_BK07119"><img src="https://live.staticflickr.com/65535/50186067198_77bd148a43_c.jpg" width="800" height="533" alt="_BK07119"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3646608782429,48.42100024946978,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186610736/in/album-72157715352161363/" title="_BK07121"><img src="https://live.staticflickr.com/65535/50186610736_bac3331194_c.jpg" width="800" height="533" alt="_BK07121"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3651968159171,48.41996351449167,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186861612/in/album-72157715352161363/" title="_BK07137"><img src="https://live.staticflickr.com/65535/50186861612_d42946da28_c.jpg" width="800" height="533" alt="_BK07137"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3661530849072,48.41221286554387,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186860847/in/album-72157715352161363/" title="_BK07140"><img src="https://live.staticflickr.com/65535/50186860847_237400b1e5_c.jpg" width="800" height="533" alt="_BK07140"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3615733807786,48.40809684605361,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50186606196/in/album-72157715352161363/" title="_BK07141"><img src="https://live.staticflickr.com/65535/50186606196_32b0f8f08b_c.jpg" width="800" height="533" alt="_BK07141"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.359743673528,48.40776506146082,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50261109677/in/album-72157715352161363/" title="_BK07151"><img src="https://live.staticflickr.com/65535/50261109677_facb2b5c41_c.jpg" width="800" height="533" alt="_BK07151"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.369857359977,48.42854407553276,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<description><![CDATA[<a data-flickr-embed="true" href="https://www.flickr.com/photos/188051722@N03/50260916891/in/album-72157715352161363/" title="_BK07154"><img src="https://live.staticflickr.com/65535/50260916891_a395136302_c.jpg" width="800" height="527" alt="_BK07154"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>]]></description>
+		<styleUrl>#active_transportation</styleUrl>
+		<Point>
+			<coordinates>-123.3729158379142,48.42831149226074,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
