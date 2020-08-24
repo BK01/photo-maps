@@ -91,21 +91,21 @@
 			var active_transportation = omnivore.kml('https://raw.githubusercontent.com/BK01/photo-maps/gh-pages/kml/active_transportation.kml', null, activeTransportationLayer)
 				.on('ready', function() {
 					active_transportation.eachLayer(function(layer) {
-						layer.bindPopup(layer.feature.properties.description);
+						layer.bindPopup(layer.feature.properties.description, {maxWidth: "auto", maxHeight: 825, closeOnClick: true});
 					});
 				});
 
 			var public_transportation = omnivore.kml('https://raw.githubusercontent.com/BK01/photo-maps/gh-pages/kml/public_transportation.kml', null, publicTransportationLayer)
 				.on('ready', function() {
 					public_transportation.eachLayer(function(layer) {
-						layer.bindPopup(layer.feature.properties.description);
+						layer.bindPopup(layer.feature.properties.description, {maxWidth: "auto", maxHeight: 825, closeOnClick: true});
 					});
 				});
 
 			var traffic_calming = omnivore.kml('https://raw.githubusercontent.com/BK01/photo-maps/gh-pages/kml/traffic_calming.kml', null, trafficCalmingLayer)
 				.on('ready', function() {
 					traffic_calming.eachLayer(function(layer) {
-						layer.bindPopup(layer.feature.properties.description);
+						layer.bindPopup(layer.feature.properties.description, {maxWidth: "auto", maxHeight: 825, closeOnClick: true});
 					});
 				});		
 
